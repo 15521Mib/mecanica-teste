@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class fat : MonoBehaviour
 {
+    [SerializeField]
+    private float velocidade = 2;
+    
     Rigidbody2D fisica;
     // Start is called before the first frame update
     void Awake()
@@ -22,7 +25,7 @@ public class fat : MonoBehaviour
     }
     void pula()
     {
-        this.fisica.AddForce(Vector2.up * 2, ForceMode2D.Impulse);
+        this.fisica.AddForce(Vector2.up * velocidade, ForceMode2D.Impulse);
 
     }
 
