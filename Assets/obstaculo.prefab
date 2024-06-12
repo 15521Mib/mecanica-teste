@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5794427643373712889}
   - component: {fileID: 1228686173157372679}
   m_Layer: 0
-  m_Name: pipe-red
+  m_Name: galho 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1980233827666011652}
   m_LocalRotation: {x: -0.038394015, y: 0.0001893239, z: -0.004927382, w: 0.99925053}
-  m_LocalPosition: {x: 0.2074, y: -6.664, z: 4.408}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.8176504, y: 2.8538277, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -158,7 +158,7 @@ GameObject:
   - component: {fileID: 3628716110700229466}
   - component: {fileID: 2510462288219660499}
   m_Layer: 0
-  m_Name: pipe-red (2)
+  m_Name: galho 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -172,7 +172,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3406164116172698451}
   m_LocalRotation: {x: -0.0026768937, y: 0.00001319997, z: -0.004931, w: 0.99998426}
-  m_LocalPosition: {x: 0.37, y: 1.5551, z: 4.37}
+  m_LocalPosition: {x: 0.09, y: 9.31, z: -0.05}
   m_LocalScale: {x: 0.8176504, y: -2.8252044, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -316,7 +316,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8491914880648546502}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.0136764, y: 1.7640762, z: -4.364798}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
